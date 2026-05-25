@@ -1,6 +1,6 @@
 # Rafael Seco
 
-**Back-end Developer** — I build APIs that run in production, not just on localhost.
+**Back-end Developer**
 
 Focused on clean architecture, business logic that actually makes sense, and systems that hold up under real use. Python and Java are my main tools. I care about *why* a decision is made, not just that it works.
 
